@@ -1,8 +1,3 @@
-/*
- *
- * *iptvscanner.cpp - 多播的客户端
- *
- * */
 #include <stdio.h>
 #include <stdlib.h>
 #include <sys/types.h>
